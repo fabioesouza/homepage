@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\html",
+    "\\assets\\icon",
+    "\\assets\\img",
+    "\\css"
   ],
-  "SelectedNode": "\\C:\\Users\\pedro\\Source\\Repos\\homepage",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\assets\\html\\future (2).html",
+  "PreviewInSolutionExplorer": true
 }
